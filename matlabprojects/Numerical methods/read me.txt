@@ -1,0 +1,2 @@
+This folder contains recent work I've done in numerical analysis, for this reason not all projects are here yet.
+
